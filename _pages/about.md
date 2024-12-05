@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ms"
+title: "Dinah Tuwanje Salonga"
 author_profile: true
 redirect_from: 
   - /about/
