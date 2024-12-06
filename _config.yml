@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MSc"
+title                    : "Dinah Tuwanje Band"
 title_separator          : "-"
-name                     : &name "Dinah Tuwanje Banda"
+name                     : &name ""
 description              : &description "Policy Researcher (Research Analyst)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
