@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dinah Tuwanje Band"
+title                    : "Dinah Tuwanje Banda"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Policy Researcher (Research Analyst)"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dinah Tuwanje Banda"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Policy Researcher"
   location         : "Malawi"
   employer         : "MwAPATA Institute"
   uri              : # URL
