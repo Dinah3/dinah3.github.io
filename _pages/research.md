@@ -11,6 +11,8 @@ redirect_from:
 
 ## Working papers
 
+[**Adoption of sustainable agricultural intensification practices and their welfare impacts: Comparative evidence from Ethiopia, Malawi, and Uganda**](/files/paper1.pdf) <br/> 
+
 [**TITLE**](/files/paper1.pdf) <br/> 
 
 ## Publications
