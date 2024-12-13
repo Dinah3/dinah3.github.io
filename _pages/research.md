@@ -15,7 +15,7 @@ redirect_from:
 
 ## Publications
 
-[**Can adoption of improved seed varieties spur long‑term food security inMalawi?**] (with [Dinah Tuwanje Salonga](https://rdcu.be/dQAIi)) <br/>
+[**Can adoption of improved seed varieties spur long‑term food security in Malawi?**] (with [Dinah Tuwanje Salonga](https://rdcu.be/d3udn)) <br/>
 
 ## Works in Progress
 
