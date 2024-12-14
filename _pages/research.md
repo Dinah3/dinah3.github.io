@@ -5,7 +5,7 @@ redirect_from:
   - /research
 ---
 
-{% include base_path %}
+{% https://dinah3.github.io/research/ %}
 
 # Research
 
