@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /[research/](https://dinah3.github.io/research/)
 author_profile: true
+redirect_from:
+  - /research
 ---
 
 {https://dinah3.github.io/research/}
