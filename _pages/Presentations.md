@@ -1,9 +1,13 @@
 ---
 layout: archive
 title: "Presentations"
-permalink: /presentations/https://dinah3.github.io/presentations/
+permalink: /presentations/
 author_profile: true
+redirect_from:
+  - /talks
 ---
+
+{% include base_path %}
 
 {% if site.talkmap_link == true %}
 
