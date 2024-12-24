@@ -1,5 +1,5 @@
 title: "Research"
-permalink: /research/
+permalink: /[research/](https://dinah3.github.io/research/)
 author_profile: true
 redirect_from:
   - /research
