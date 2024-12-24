@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations.md"
+title: "Presentations"
 permalink: /presentations/https://dinah3.github.io/presentations/
 author_profile: true
 ---
