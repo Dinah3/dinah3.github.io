@@ -3,31 +3,23 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirect_from:
+  - /research.md
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Research
 
-{% include base_path %}
+## Working Papers
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+[**Adoption of sustainable agricultural intensification practices and their welfare impacts: Comparative evidence from Ethiopia, Malawi, and Uganda**](/files/paper1.pdf) <br/> 
+
+[**Traders’ and smallholder farmers’ knowledge, attitudes, and practices towards groundnut aflatoxin contamination in Central Malawi**](/files/GroundnutKAPpaper.pdf) <br/> 
+
+## Publications
+
+[**Can adoption of improved seed varieties spur long‑term food security in Malawi?**](https://rdcu.be/d3udn) (with [Dinah Tuwanje Salonga](https://rdcu.be/d3udn)) <br/>
+
+## Works in Progress
+
+**TITLE** (with [AUTHOR1](URL1)) <br/>
+
