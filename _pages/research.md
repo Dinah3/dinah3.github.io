@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-{https://dinah3.github.io/research/}
+{_pages/research.md}
 
 # Research
 
