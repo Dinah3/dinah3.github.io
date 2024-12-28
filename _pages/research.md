@@ -7,11 +7,9 @@ redirect_from:
   - /publications.html
 ---
 
-{_pages/research.md}
-
 # Research
 
-## Working papers
+## Working Papers
 
 [**Adoption of sustainable agricultural intensification practices and their welfare impacts: Comparative evidence from Ethiopia, Malawi, and Uganda**](/files/paper1.pdf) <br/> 
 
@@ -19,8 +17,8 @@ redirect_from:
 
 ## Publications
 
-[**Can adoption of improved seed varieties spur long‑term food security in Malawi?**] (with [Dinah Tuwanje Salonga](https://rdcu.be/d3udn)) <br/>
+[**Can adoption of improved seed varieties spur long‑term food security in Malawi?**](https://rdcu.be/d3udn) (with [Dinah Tuwanje Salonga](https://rdcu.be/d3udn)) <br/>
 
 ## Works in Progress
 
-**TITLE** (with [AUTHOR1](URL1)<br/>
+**TITLE** (with [AUTHOR1](URL1)) <br/>
