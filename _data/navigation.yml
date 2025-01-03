@@ -6,7 +6,7 @@
 
 main:
  - title: "Research"
-    url: /https://dinah3.github.io/research/
+    url: https://dinah3.github.io/research/
 
   - title: "Talks"
     url: /talks/    
