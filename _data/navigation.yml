@@ -6,7 +6,7 @@
 
 main:
  - title: "Research"
-    url: _pages/research.md
+    url: https://dinah3.github.io/research.md/
 
   - title: "Presentations"
     url: https://dinah3.github.io/presentations/    
