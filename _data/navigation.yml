@@ -6,10 +6,10 @@
 
 main:
  - title: "Research"
-    url: https://dinah3.github.io/research/
+    url: https://dinah3.github.io/pages/research/
 
   - title: "Presentations"
-    url: https://dinah3.github.io/presentations/    
+    url: https://dinah3.github.io/pages/presentations/    
 
   - title: "Teaching"
     url: /teaching/    
